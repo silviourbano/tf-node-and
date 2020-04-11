@@ -1,0 +1,11 @@
+{
+  "name": "tf-node-and",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:silviourbano/tf-node-and.git",
+  "author": "Silvio Rubio Urbano da Silva <silviourbano@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.7.2"
+  }
+}
