@@ -6,6 +6,6 @@
   "author": "Silvio Rubio Urbano da Silva <silviourbano@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow/tfjs": "^1.7.2"
+    "@tensorflow/tfjs": "^4.8.0"
   }
 }
